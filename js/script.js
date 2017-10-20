@@ -10,3 +10,7 @@ function midmarket()
 {
     window.location = "#";
 }
+function feedback() 
+{
+    window.location = "#";
+}
