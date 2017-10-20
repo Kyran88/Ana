@@ -53,3 +53,8 @@ body {
   opacity: 1;
   right: 0;
 }
+
+.left {
+  left: 5px;
+  bottom: 10px;
+}
